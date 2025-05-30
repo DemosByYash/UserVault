@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserVault", "UserVault\UserVault.csproj", "{16353672-8997-4BB5-8FB1-07D88CD67495}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16353672-8997-4BB5-8FB1-07D88CD67495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16353672-8997-4BB5-8FB1-07D88CD67495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16353672-8997-4BB5-8FB1-07D88CD67495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16353672-8997-4BB5-8FB1-07D88CD67495}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDE78874-86E3-4727-8059-F7E5C2F27ED6}
+	EndGlobalSection
+EndGlobal
